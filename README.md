@@ -4,8 +4,11 @@ It's a browser gadget, implement the function of browser phone bar and connect t
 ## 📫 How to reach us:
 
 WeChat:freeipcc
+
 Skype：https://join.skype.com/invite/rVbQH1igkQwV
+
 Skype UserID：live:.cid.fedb411de91d9b
+
 Email:leehear@gmail.com
 
 ## Chapter: Cisco Finesse Desktop Interface
