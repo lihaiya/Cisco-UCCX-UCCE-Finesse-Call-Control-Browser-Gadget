@@ -12,7 +12,7 @@ Email:leehear@gmail.com
 
 WeChat:freeipcc
 
-## Chapter: Cisco Finesse Desktop Interface！
+## Chapter: Cisco Finesse Desktop Interface
 https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cust_contact/contact_center/crs/express_12_5_1_su1/user/guide/uccx_b_1251su1finesse-agent-supervisor-desktop-guide/uccx_b_1252finesse-agent-supervisor-desktop-guide_chapter_01.html
 
 Finesse provides a separate state control for chat and email. If you handle chat and email contacts, you must change your status to Ready on the Chat and Email Control gadget.
