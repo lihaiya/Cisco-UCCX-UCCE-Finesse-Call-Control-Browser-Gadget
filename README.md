@@ -71,5 +71,5 @@ Agent Device Selection: Agents can select the telephony device when logging into
 
 The functionality available to you depends on what your administrator has configured. For example, if your administrator did not define Wrap-Up Reasons, you cannot choose a wrap-up reason.
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
 
