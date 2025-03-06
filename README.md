@@ -1,6 +1,6 @@
 # Cisco-UCCX-UCCE-Finesse-Call-Control-Browser-Gadget
 It's a browser gadget, implement the function of browser phone bar and connect to Cisco UCCX or Cisco UCCE.
-To connect to third-party business systems, such as CRM systems and work order systems, to control calls on the web pages of the CRM system or work order system!!!!!!
+To connect to third-party business systems, such as CRM systems and work order systems, to control calls on the web pages of the CRM system or work order system!!!
 
 ## 📫 How to reach us:
 
@@ -10,7 +10,10 @@ Skype UserID：live:.cid.fedb411de91d9b
 
 Email:leehear@gmail.com
 
-WeChat:David_Li_Haiya
+WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
+
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/92716f4e-2475-45fd-87e1-d22e1b91bcf1)
+
 
 ## Chapter: Cisco Finesse Desktop Interface
 https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cust_contact/contact_center/crs/express_12_5_1_su1/user/guide/uccx_b_1251su1finesse-agent-supervisor-desktop-guide/uccx_b_1252finesse-agent-supervisor-desktop-guide_chapter_01.html
